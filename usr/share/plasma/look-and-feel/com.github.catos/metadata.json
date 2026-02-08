@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "catosdev@qq.com",
+                "Name": "catos"
+            }
+        ],
+        "Category": "",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Description": "theme that imitates the appearance of macos bigsur and later versions",
+        "Id": "com.github.catos",
+        "License": "GPLv3+",
+        "Name": "com.github.catos",
+        "Website": "https://github.com/CatOS-Home/CatOS"
+        },
+        "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1870462",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1975770",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2087471",
+        "kns://plasmoids.knsrc/api.kde-look.org/2137418",
+        "kns://aurorae.knsrc/api.kde-look.org/1409704",
+        "kns://plasmoids.knsrc/api.kde-look.org/2137418",
+        "kns://plasmoids.knsrc/api.kde-look.org/2138251",
+        "kns://plasmoids.knsrc/api.kde-look.org/2139890",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136307",
+        "kns://wallpaper.knsrc/api.kde-look.org/1409728",
+        "kns://wallpaper.knsrc/api.kde-look.org/2128990",
+        "kns://xcursor.knsrc/api.kde-look.org/2083798",
+        "kns://icons.knsrc/api.kde-look.org/1400021"
+         ]
+}
