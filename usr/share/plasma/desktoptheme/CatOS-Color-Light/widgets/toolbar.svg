@@ -8,7 +8,7 @@
             stop-color:#31363b;
         }
         .ColorScheme-Background {
-            color:#eff0f1;
+            color:#ffffff;
             stop-color:#eff0f1;
         }
     </style>

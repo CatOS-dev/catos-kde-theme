@@ -27,8 +27,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=183,218,237
-BackgroundNormal=252,252,252
+BackgroundAlternate=247,248,250
+BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
 ForegroundActive=51,142,193
@@ -55,8 +55,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=239,240,241
-BackgroundNormal=222,224,226
+BackgroundAlternate=247,248,250
+BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
 ForegroundActive=51,142,193
@@ -69,8 +69,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header][Inactive]
-BackgroundAlternate=227,229,231
-BackgroundNormal=239,240,241
+BackgroundAlternate=247,248,250
+BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
 ForegroundActive=51,142,193
@@ -97,8 +97,8 @@ ForegroundPositive=23,104,57
 ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=239,240,241
-BackgroundNormal=247,247,247
+BackgroundAlternate=247,248,250
+BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
 ForegroundActive=51,142,193
@@ -111,7 +111,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=247,247,247
+BackgroundAlternate=247,248,250
 BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
@@ -125,8 +125,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=227,229,231
-BackgroundNormal=239,240,241
+BackgroundAlternate=247,248,250
+BackgroundNormal=255,255,255
 DecorationFocus=51,142,193
 DecorationHover=51,142,193
 ForegroundActive=51,142,193
@@ -147,9 +147,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=227,229,231
-activeBlend=227,229,231
+activeBackground=255,255,255
+activeBlend=255,255,255
 activeForeground=35,38,41
-inactiveBackground=239,240,241
-inactiveBlend=239,240,241
+inactiveBackground=255,255,255
+inactiveBlend=255,255,255
 inactiveForeground=112,125,138

@@ -11,10 +11,10 @@
         color:#3daee9;
         }
         .ColorScheme-Background {
-        color:#eff0f1;
+        color:#ffffff;
       }
       .ColorScheme-ButtonBackground {
-        color:#fcfcfc;
+        color:#ffffff;
       }
     </style>
 <g class="ColorScheme-Highlight">
