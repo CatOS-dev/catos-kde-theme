@@ -2,7 +2,7 @@
  <defs id="rounded">
      <style type="text/css" id="current-color-scheme">
         .ColorScheme-Text {
-        color:#eff0f1;
+        color:#232629;
         }
         .ColorScheme-NegativeText {
         color:#da4453;
@@ -11,10 +11,10 @@
         color:#3daee9;
         }
         .ColorScheme-Background {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-ButtonBackground {
-        color:#444c53;
+        color:#fcfcfc;
       }
     </style>
   <linearGradient id="linearGradient985">
