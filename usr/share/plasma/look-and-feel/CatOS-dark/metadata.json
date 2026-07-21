@@ -12,9 +12,9 @@
             "Plasma/LookAndFeel"
         ],
         "Description": "theme that imitates the appearance of macos bigsur and later versions",
-        "Id": "com.github.catos",
+        "Id": "CatOS-dark",
         "License": "GPLv3+",
-        "Name": "com.github.catos",
+        "Name": "CatOS-dark",
         "Website": "https://github.com/CatOS-Home/CatOS"
         },
         "X-KPackage-Dependencies": [
