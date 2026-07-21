@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "catosdev@qq.com",
+                "Name": "CatOS"
+            }
+        ],
+        "Description": "CatOS dark Plasma desktop theme",
+        "EnabledByDefault": true,
+        "Id": "CatOS-Color-Opaque",
+        "License": "GPL-3.0-or-later",
+        "Name": "CatOS Color",
+        "Version": "20240730.0.1",
+        "Website": "https://github.com/CatOS-dev/catos-kde-theme"
+    },
+    "X-Plasma-API": "5.0"
+}
