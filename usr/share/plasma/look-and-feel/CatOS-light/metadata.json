@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "catosdev@qq.com",
+                "Name": "CatOS"
+            }
+        ],
+        "Category": "",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Description": "CatOS light global theme",
+        "Id": "CatOS-light",
+        "License": "GPL-3.0-or-later",
+        "Name": "CatOS-light",
+        "Website": "https://github.com/CatOS-dev/catos-kde-theme"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1870462",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1975770",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2087471",
+        "kns://plasmoids.knsrc/api.kde-look.org/2137418",
+        "kns://aurorae.knsrc/api.kde-look.org/1409704",
+        "kns://plasmoids.knsrc/api.kde-look.org/2137418",
+        "kns://plasmoids.knsrc/api.kde-look.org/2138251",
+        "kns://plasmoids.knsrc/api.kde-look.org/2139890",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136307",
+        "kns://wallpaper.knsrc/api.kde-look.org/1409728",
+        "kns://wallpaper.knsrc/api.kde-look.org/2128990",
+        "kns://xcursor.knsrc/api.kde-look.org/2083798",
+        "kns://icons.knsrc/api.kde-look.org/1400021"
+    ]
+}
