@@ -92,24 +92,42 @@
   <rect  style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
   <path  style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
  </g>
- <rect id="north-normal-bottomleft" style="opacity:0.001" width="4" height="4" x="22" y="-4" transform="rotate(90)"/>
+ <g id="north-normal-bottomleft" style="opacity:0.65" transform="translate(-1,5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="north-normal-topleft" style="opacity:0.001" width="4" height="4" x="0" y="14"/>
  <rect id="north-normal-left" style="opacity:0.001" width="4" height="4" x="0" y="18"/>
  <rect id="north-normal-top" style="opacity:0.001" width="4" height="4" x="4" y="14"/>
  <rect id="north-normal-topright" style="opacity:0.001" width="4" height="4" x="8" y="14"/>
  <rect id="north-normal-right" style="opacity:0.001" width="4" height="4" x="8" y="18"/>
  <rect id="north-normal-center" style="opacity:0.001" width="4" height="4" x="4" y="18"/>
- <rect id="north-normal-bottom" style="opacity:0.001" width="4" height="4" x="22" y="-8" transform="rotate(90)"/>
- <rect id="north-normal-bottomright" style="opacity:0.001" width="4" height="4" x="22" y="8" transform="matrix(0,1,1,0,0,0)"/>
- <rect id="north-minimized-bottomleft" style="opacity:0.001" width="4" height="4" x="78" y="-4" transform="rotate(90)"/>
+ <g id="north-normal-bottom" style="opacity:0.65" transform="translate(-1,5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
+ <g id="north-normal-bottomright" style="opacity:0.65" transform="matrix(-1,0,0,1,13,5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="north-minimized-bottomleft" style="opacity:0.35" transform="translate(-1,61)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="north-minimized-topleft" style="opacity:0.001" width="4" height="4" x="0" y="70"/>
  <rect id="north-minimized-left" style="opacity:0.001" width="4" height="4" x="0" y="74"/>
  <rect id="north-minimized-top" style="opacity:0.001" width="4" height="4" x="4" y="70"/>
  <rect id="north-minimized-topright" style="opacity:0.001" width="4" height="4" x="8" y="70"/>
  <rect id="north-minimized-right" style="opacity:0.001" width="4" height="4" x="8" y="74"/>
  <rect id="north-minimized-center" style="opacity:0.001" width="4" height="4" x="4" y="74"/>
- <rect id="north-minimized-bottom" style="opacity:0.001" width="4" height="4" x="78" y="-8" transform="rotate(90)"/>
- <rect id="north-minimized-bottomright" style="opacity:0.001" width="4" height="4" x="78" y="8" transform="matrix(0,1,1,0,0,0)"/>
+ <g id="north-minimized-bottom" style="opacity:0.35" transform="translate(-1,61)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
+ <g id="north-minimized-bottomright" style="opacity:0.35" transform="matrix(-1,0,0,1,13,61)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="north-attention-center" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" width="4" height="4" x="4" y="88"/>
  <g id="north-attention-topleft" style="opacity:1" transform="translate(-1,20)">
   <rect  style="opacity:0.001" width="4" height="4" x="1" y="64"/>
@@ -198,19 +216,37 @@
   <path  style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
  </g>
  <rect id="normal-bottomleft" style="opacity:0.001" width="4" height="4" x="22" y="-17" transform="rotate(90)"/>
- <rect id="normal-topleft" style="opacity:0.001" width="4" height="4" x="13" y="14"/>
+ <g id="normal-topleft" style="opacity:0.65" transform="matrix(1,0,0,-1,12,35)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="normal-left" style="opacity:0.001" width="4" height="4" x="13" y="18"/>
- <rect id="normal-top" style="opacity:0.001" width="4" height="4" x="17" y="14"/>
- <rect id="normal-topright" style="opacity:0.001" width="4" height="4" x="21" y="14"/>
+ <g id="normal-top" style="opacity:0.65" transform="matrix(1,0,0,-1,12,35)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
+ <g id="normal-topright" style="opacity:0.65" transform="rotate(-180,13,17.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="normal-right" style="opacity:0.001" width="4" height="4" x="21" y="18"/>
  <rect id="normal-center" style="opacity:0.001" width="4" height="4" x="17" y="18"/>
  <rect id="normal-bottom" style="opacity:0.001" width="4" height="4" x="22" y="-21" transform="rotate(90)"/>
  <rect id="normal-bottomright" style="opacity:0.001" width="4" height="4" x="22" y="21" transform="matrix(0,1,1,0,0,0)"/>
  <rect id="minimized-bottomleft" style="opacity:0.001" width="4" height="4" x="78" y="-17" transform="rotate(90)"/>
- <rect id="minimized-topleft" style="opacity:0.001" width="4" height="4" x="13" y="70"/>
+ <g id="minimized-topleft" style="opacity:0.35" transform="matrix(1,0,0,-1,12,91)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="minimized-left" style="opacity:0.001" width="4" height="4" x="13" y="74"/>
- <rect id="minimized-top" style="opacity:0.001" width="4" height="4" x="17" y="70"/>
- <rect id="minimized-topright" style="opacity:0.001" width="4" height="4" x="21" y="70"/>
+ <g id="minimized-top" style="opacity:0.35" transform="matrix(1,0,0,-1,12,91)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
+ <g id="minimized-topright" style="opacity:0.35" transform="rotate(-180,13,45.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="minimized-right" style="opacity:0.001" width="4" height="4" x="21" y="74"/>
  <rect id="minimized-center" style="opacity:0.001" width="4" height="4" x="17" y="74"/>
  <rect id="minimized-bottom" style="opacity:0.001" width="4" height="4" x="78" y="-21" transform="rotate(90)"/>
@@ -251,18 +287,36 @@
  <rect id="east-progress-center" style="opacity:0.001" width="4" height="4" x="31" y="-64" transform="scale(1,-1)"/>
  <rect id="east-focus-center" style="opacity:0.001" width="4" height="4" x="31" y="-50" transform="scale(1,-1)"/>
  <rect id="east-hover-center" style="opacity:0.001" width="4" height="4" x="31" y="-36" transform="scale(1,-1)"/>
- <rect id="east-normal-bottomleft" style="opacity:0.001" width="4" height="4" x="22" y="-31" transform="rotate(90)"/>
- <rect id="east-normal-topleft" style="opacity:0.001" width="4" height="4" x="27" y="14"/>
- <rect id="east-normal-left" style="opacity:0.001" width="4" height="4" x="27" y="18"/>
+ <g id="east-normal-bottomleft" style="opacity:0.65" transform="matrix(0,-1,-1,0,48,27)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="east-normal-topleft" style="opacity:0.65" transform="rotate(90,17.5,30.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="east-normal-left" style="opacity:0.65" transform="rotate(90,17.5,30.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
  <rect id="east-normal-top" style="opacity:0.001" width="4" height="4" x="31" y="14"/>
  <rect id="east-normal-topright" style="opacity:0.001" width="4" height="4" x="35" y="14"/>
  <rect id="east-normal-right" style="opacity:0.001" width="4" height="4" x="35" y="18"/>
  <rect id="east-normal-center" style="opacity:0.001" width="4" height="4" x="31" y="18"/>
  <rect id="east-normal-bottom" style="opacity:0.001" width="4" height="4" x="22" y="-35" transform="rotate(90)"/>
  <rect id="east-normal-bottomright" style="opacity:0.001" width="4" height="4" x="22" y="35" transform="matrix(0,1,1,0,0,0)"/>
- <rect id="east-minimized-bottomleft" style="opacity:0.001" width="4" height="4" x="78" y="-31" transform="rotate(90)"/>
- <rect id="east-minimized-topleft" style="opacity:0.001" width="4" height="4" x="27" y="70"/>
- <rect id="east-minimized-left" style="opacity:0.001" width="4" height="4" x="27" y="74"/>
+ <g id="east-minimized-bottomleft" style="opacity:0.35" transform="matrix(0,-1,-1,0,48,83)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="east-minimized-topleft" style="opacity:0.35" transform="rotate(90,-10.5,58.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="east-minimized-left" style="opacity:0.35" transform="rotate(90,-10.5,58.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
  <rect id="east-minimized-top" style="opacity:0.001" width="4" height="4" x="31" y="70"/>
  <rect id="east-minimized-topright" style="opacity:0.001" width="4" height="4" x="35" y="70"/>
  <rect id="east-minimized-right" style="opacity:0.001" width="4" height="4" x="35" y="74"/>
@@ -309,20 +363,38 @@
  <rect id="west-normal-topleft" style="opacity:0.001" width="4" height="4" x="41" y="14"/>
  <rect id="west-normal-left" style="opacity:0.001" width="4" height="4" x="41" y="18"/>
  <rect id="west-normal-top" style="opacity:0.001" width="4" height="4" x="45" y="14"/>
- <rect id="west-normal-topright" style="opacity:0.001" width="4" height="4" x="49" y="14"/>
- <rect id="west-normal-right" style="opacity:0.001" width="4" height="4" x="49" y="18"/>
+ <g id="west-normal-topright" style="opacity:0.65" transform="matrix(0,1,1,0,32,13)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="west-normal-right" style="opacity:0.65" transform="matrix(0,1,1,0,32,13)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
  <rect id="west-normal-center" style="opacity:0.001" width="4" height="4" x="45" y="18"/>
  <rect id="west-normal-bottom" style="opacity:0.001" width="4" height="4" x="22" y="-49" transform="rotate(90)"/>
- <rect id="west-normal-bottomright" style="opacity:0.001" width="4" height="4" x="22" y="49" transform="matrix(0,1,1,0,0,0)"/>
+ <g id="west-normal-bottomright" style="opacity:0.65" transform="rotate(-90,29.5,-2.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="west-minimized-bottomleft" style="opacity:0.001" width="4" height="4" x="78" y="-45" transform="rotate(90)"/>
  <rect id="west-minimized-topleft" style="opacity:0.001" width="4" height="4" x="41" y="70"/>
  <rect id="west-minimized-left" style="opacity:0.001" width="4" height="4" x="41" y="74"/>
  <rect id="west-minimized-top" style="opacity:0.001" width="4" height="4" x="45" y="70"/>
- <rect id="west-minimized-topright" style="opacity:0.001" width="4" height="4" x="49" y="70"/>
- <rect id="west-minimized-right" style="opacity:0.001" width="4" height="4" x="49" y="74"/>
+ <g id="west-minimized-topright" style="opacity:0.35" transform="matrix(0,1,1,0,32,69)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
+ <g id="west-minimized-right" style="opacity:0.35" transform="matrix(0,1,1,0,32,69)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
+  <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
+ </g>
  <rect id="west-minimized-center" style="opacity:0.001" width="4" height="4" x="45" y="74"/>
  <rect id="west-minimized-bottom" style="opacity:0.001" width="4" height="4" x="78" y="-49" transform="rotate(90)"/>
- <rect id="west-minimized-bottomright" style="opacity:0.001" width="4" height="4" x="78" y="49" transform="matrix(0,1,1,0,0,0)"/>
+ <g id="west-minimized-bottomright" style="opacity:0.35" transform="rotate(-90,57.5,25.5)">
+  <rect style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
+ </g>
  <rect id="west-attention-center" style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" width="4" height="4" x="45" y="88"/>
  <g id="west-attention-topleft" style="opacity:1" transform="translate(40,20)">
   <rect id="rect1391-0" style="opacity:0.001" width="4" height="4" x="1" y="64"/>
