@@ -460,7 +460,7 @@
   <rect  style="opacity:0.001" width="4" height="4" x="17" y="-9" transform="rotate(90)"/>
   <rect  style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" width="3" height="4" x="17" y="-9" transform="rotate(90)"/>
  </g>
- <g id="east-hover-bottom-left" style="opacity:1" transform="matrix(0,-1,-1,0,48,41)">
+ <g id="east-hover-bottomleft" style="opacity:1" transform="matrix(0,-1,-1,0,48,41)">
   <rect  style="opacity:0.001" width="4" height="4" x="17" y="-5" transform="rotate(90)"/>
   <path  style="opacity:1;fill:currentColor" class="ColorScheme-Highlight" d="M 3.5,17 A 1.5,1.4999998 0 0 0 2,18.5 1.5,1.4999998 0 0 0 3.5,20 H 5 V 19 18.5 17 Z"/>
  </g>
@@ -503,7 +503,7 @@
  <rect id="east-hover-top" style="opacity:0.001" width="4" height="4" x="31" y="-32" transform="scale(1,-1)"/>
  <rect id="east-hover-topright" style="opacity:0.001" width="4" height="4" x="35" y="-32" transform="scale(1,-1)"/>
  <rect id="east-hover-right" style="opacity:0.001" width="4" height="4" x="35" y="-36" transform="scale(1,-1)"/>
- <rect id="east-hover-bottom-right" style="opacity:0.001" width="4" height="4" x="35" y="-40" transform="scale(1,-1)"/>
+ <rect id="east-hover-bottomright" style="opacity:0.001" width="4" height="4" x="35" y="-40" transform="scale(1,-1)"/>
  <rect id="east-hover-bottom" style="opacity:0.001" width="4" height="4" x="31" y="-40" transform="scale(1,-1)"/>
  <rect id="east-focus-top" style="opacity:0.001" width="4" height="4" x="31" y="-46" transform="scale(1,-1)"/>
  <rect id="east-focus-topright" style="opacity:0.001" width="4" height="4" x="35" y="-46" transform="scale(1,-1)"/>
